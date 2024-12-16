@@ -2,7 +2,7 @@
 - 🎓 I graduated from Faculty of Engineering Chulalongkorn University.
 - 👀 I’m interested in machine learning and backend engineering.
 - 📫 How to reach me:
-   - Email: ktphap.ml@gmail.com (through personal email), kridtaphad.s@wisesight.com (through work email)
+   - Email: ktphap.ml@gmail.com (through personal email), kridtaphad.s@muze.co.th (through work email)
    
 
 <!---
